@@ -3,7 +3,8 @@
 ![Build](https://github.com/Williamug/schoolsystem/workflows/Build/badge.svg)
 <!-- <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a> -->
 
-## About School System
+Laravel 8 starter kit is is designed carefully with darker mode in mind. The kit is built using tailwindcss, [Tailwind Multi Theme plugin](https://github.com/estevanmaito/tailwindcss-multi-theme#tailwind-css-multi-theme). It is very responsive and works well on all devices
 
-School System is a management system the takes all the school management burden and simplify school management
+## License
 
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
